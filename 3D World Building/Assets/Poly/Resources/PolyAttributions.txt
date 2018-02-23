@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Lighthouse
+Author: Poly by Google
+URL: https://poly.google.com/view/0t2ZYRBsqX-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sushi
+Author: Poly by Google
+URL: https://poly.google.com/view/8l407Lbq6J0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

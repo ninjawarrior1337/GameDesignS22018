@@ -1,0 +1,63 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Wood_Floor_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.368627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/Wood_Floor_Dark.jpg
+
+newmtl Cardboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.545098 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/Cardboard.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Brick_Colored_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.560784 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/Brick_Colored_Blue.jpg
+
+newmtl Basic_Tile
+Ka 0.000000 0.000000 0.000000
+Kd 0.796078 0.807843 0.792157
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/Basic_Tile.jpg
+
+newmtl _Roofing_Tile_Spanish_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.250980 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/_Roofing_Tile_Spanish_1.jpg
+
+newmtl Metal_Corrugated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/Metal_Corrugated_Shiny.jpg
+
+newmtl M_3399ff_Turquoise
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.600000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/M_3399ff_Turquoise.jpg
+
+newmtl _Wood_Cherry_Original_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd housee/_Wood_Cherry_Original_1.jpg
+
