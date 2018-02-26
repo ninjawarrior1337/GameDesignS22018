@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4b196c65508ba2141bc3ecb50e9095f1
-timeCreated: 1519321949
+timeCreated: 1519665580
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -7419,140 +7419,10 @@ ModelImporter:
     4301104: PineBranch4
     4301106: ID2700
     9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Brick_Pavers_Modular
-    second: {fileID: 2100000, guid: 1cf2dc56f9133f94e87d5cfdf7ee3071, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cladding_Siding_White
-    second: {fileID: 2100000, guid: 8414514e42a7ce74a90aea9503ff3782, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Fencing_Diamond_Mesh
-    second: {fileID: 2100000, guid: 5e0b4feb5e3324b4a80e71a1d78cd6b4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Groundcover_Rock_Crushed_2inch
-    second: {fileID: 2100000, guid: d6fdb1bd06d347f4ebf975ee513ec291, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Groundcover_Rock_Crushed_Multi
-    second: {fileID: 2100000, guid: 2804aad61e2128e4599020ed6b65cd00, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Stone_Masonry_Multi
-    second: {fileID: 2100000, guid: 2c295cf76723c2148b5eef78a1064933, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Stone_Sandstone_Ashlar_Light
-    second: {fileID: 2100000, guid: 11f00e54b83cbad428782ce340cc9569, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tile_Hexagon_White
-    second: {fileID: 2100000, guid: 4c016c698043a064290ffa5280156d51, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tile_Limestone_Multi
-    second: {fileID: 2100000, guid: b6e33d3121ff89244b53947bb632afba, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tile_Navy
-    second: {fileID: 2100000, guid: bf1bd15527e6e4b498b12e6c89977f4c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Blue
-    second: {fileID: 2100000, guid: 9da77dec2ee69fb4982f6c489dac1ba9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Corrugated
-    second: {fileID: 2100000, guid: 3a9151e163f59694b862d6745b404146, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Safety
-    second: {fileID: 2100000, guid: 28e44c544d64ed94790812239b0f7dfb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Tinted
-    second: {fileID: 2100000, guid: 59b75105552898041842a80c804380e7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Resin_Crush_Gray
-    second: {fileID: 2100000, guid: 357aad4c1e35af5448f76cd4bd89621a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Vegetation_Grass_Artificial
-    second: {fileID: 2100000, guid: e9e9b6593b863d9408d7a82e3822c0a8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Water_Pool_Light
-    second: {fileID: 2100000, guid: ebb86f1281db20d4c97ae52e0bc21fc6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood_Cherry_Original
-    second: {fileID: 2100000, guid: f70bc6de9645dd6479ad95c970cdf9b0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __Charcoal_
-    second: {fileID: 2100000, guid: 884fd158b4a63cf43b59f33d68724fc6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __DarkGreen_
-    second: {fileID: 2100000, guid: 1c7ee38aa23549d4eaf1038180c9b0e6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __Green_
-    second: {fileID: 2100000, guid: 2e2f403a8736d1649b9d0b0913500fc1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __OliveDrab_
-    second: {fileID: 2100000, guid: 39ae186630f0b7148a612b6965a9856a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __Olive_
-    second: {fileID: 2100000, guid: 8e74443fbf2766b4492f48fe79c225b2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __SaddleBrown_
-    second: {fileID: 2100000, guid: b5a38d78a33401d439ee6dd39e909284, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: __Tile_Ceramic_Natural_1
-    second: {fileID: 2100000, guid: 72f75336556a13848979cab6b55f149e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: material
-    second: {fileID: 2100000, guid: d29beef2b423c4f48a2dbedd7e6a99da, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
     materialLocation: 1
   animations:
