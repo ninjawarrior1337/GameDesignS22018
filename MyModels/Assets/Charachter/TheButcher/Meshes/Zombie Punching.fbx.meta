@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 8fc281e792067e64facca400bd392f9f
+timeCreated: 1519926959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: eye_L
+    100004: eye_R
+    100006: head
+    100008: thebutcher_hik_Head
+    100010: thebutcher_hik_Hips
+    100012: thebutcher_hik_LeftArm
+    100014: thebutcher_hik_LeftFoot
+    100016: thebutcher_hik_LeftFootIndex1
+    100018: thebutcher_hik_LeftFootIndex2
+    100020: thebutcher_hik_LeftForeArm
+    100022: thebutcher_hik_LeftHand
+    100024: thebutcher_hik_LeftHandIndex1
+    100026: thebutcher_hik_LeftHandIndex2
+    100028: thebutcher_hik_LeftHandIndex3
+    100030: thebutcher_hik_LeftHandIndex4
+    100032: thebutcher_hik_LeftHandMiddle1
+    100034: thebutcher_hik_LeftHandMiddle2
+    100036: thebutcher_hik_LeftHandMiddle3
+    100038: thebutcher_hik_LeftHandMiddle4
+    100040: thebutcher_hik_LeftHandPinky1
+    100042: thebutcher_hik_LeftHandPinky2
+    100044: thebutcher_hik_LeftHandPinky3
+    100046: thebutcher_hik_LeftHandPinky4
+    100048: thebutcher_hik_LeftHandRing1
+    100050: thebutcher_hik_LeftHandRing2
+    100052: thebutcher_hik_LeftHandRing3
+    100054: thebutcher_hik_LeftHandRing4
+    100056: thebutcher_hik_LeftHandThumb1
+    100058: thebutcher_hik_LeftHandThumb2
+    100060: thebutcher_hik_LeftHandThumb3
+    100062: thebutcher_hik_LeftHandThumb4
+    100064: thebutcher_hik_LeftLeg
+    100066: thebutcher_hik_LeftShoulder
+    100068: thebutcher_hik_LeftUpLeg
+    100070: thebutcher_hik_Neck
+    100072: thebutcher_hik_Reference
+    100074: thebutcher_hik_RightArm
+    100076: thebutcher_hik_RightFoot
+    100078: thebutcher_hik_RightFootIndex1
+    100080: thebutcher_hik_RightFootIndex2
+    100082: thebutcher_hik_RightForeArm
+    100084: thebutcher_hik_RightHand
+    100086: thebutcher_hik_RightHandIndex1
+    100088: thebutcher_hik_RightHandIndex2
+    100090: thebutcher_hik_RightHandIndex3
+    100092: thebutcher_hik_RightHandIndex4
+    100094: thebutcher_hik_RightHandMiddle1
+    100096: thebutcher_hik_RightHandMiddle2
+    100098: thebutcher_hik_RightHandMiddle3
+    100100: thebutcher_hik_RightHandMiddle4
+    100102: thebutcher_hik_RightHandPinky1
+    100104: thebutcher_hik_RightHandPinky2
+    100106: thebutcher_hik_RightHandPinky3
+    100108: thebutcher_hik_RightHandPinky4
+    100110: thebutcher_hik_RightHandRing1
+    100112: thebutcher_hik_RightHandRing2
+    100114: thebutcher_hik_RightHandRing3
+    100116: thebutcher_hik_RightHandRing4
+    100118: thebutcher_hik_RightHandThumb1
+    100120: thebutcher_hik_RightHandThumb2
+    100122: thebutcher_hik_RightHandThumb3
+    100124: thebutcher_hik_RightHandThumb4
+    100126: thebutcher_hik_RightLeg
+    100128: thebutcher_hik_RightShoulder
+    100130: thebutcher_hik_RightUpLeg
+    100132: thebutcher_hik_Spine
+    100134: thebutcher_hik_Spine1
+    100136: transform19
+    100138: transform20
+    100140: transform21
+    100142: transform22
+    100144: transform24
+    100146: transform25
+    100148: //RootNode
+    400000: body
+    400002: eye_L
+    400004: eye_R
+    400006: head
+    400008: thebutcher_hik_Head
+    400010: thebutcher_hik_Hips
+    400012: thebutcher_hik_LeftArm
+    400014: thebutcher_hik_LeftFoot
+    400016: thebutcher_hik_LeftFootIndex1
+    400018: thebutcher_hik_LeftFootIndex2
+    400020: thebutcher_hik_LeftForeArm
+    400022: thebutcher_hik_LeftHand
+    400024: thebutcher_hik_LeftHandIndex1
+    400026: thebutcher_hik_LeftHandIndex2
+    400028: thebutcher_hik_LeftHandIndex3
+    400030: thebutcher_hik_LeftHandIndex4
+    400032: thebutcher_hik_LeftHandMiddle1
+    400034: thebutcher_hik_LeftHandMiddle2
+    400036: thebutcher_hik_LeftHandMiddle3
+    400038: thebutcher_hik_LeftHandMiddle4
+    400040: thebutcher_hik_LeftHandPinky1
+    400042: thebutcher_hik_LeftHandPinky2
+    400044: thebutcher_hik_LeftHandPinky3
+    400046: thebutcher_hik_LeftHandPinky4
+    400048: thebutcher_hik_LeftHandRing1
+    400050: thebutcher_hik_LeftHandRing2
+    400052: thebutcher_hik_LeftHandRing3
+    400054: thebutcher_hik_LeftHandRing4
+    400056: thebutcher_hik_LeftHandThumb1
+    400058: thebutcher_hik_LeftHandThumb2
+    400060: thebutcher_hik_LeftHandThumb3
+    400062: thebutcher_hik_LeftHandThumb4
+    400064: thebutcher_hik_LeftLeg
+    400066: thebutcher_hik_LeftShoulder
+    400068: thebutcher_hik_LeftUpLeg
+    400070: thebutcher_hik_Neck
+    400072: thebutcher_hik_Reference
+    400074: thebutcher_hik_RightArm
+    400076: thebutcher_hik_RightFoot
+    400078: thebutcher_hik_RightFootIndex1
+    400080: thebutcher_hik_RightFootIndex2
+    400082: thebutcher_hik_RightForeArm
+    400084: thebutcher_hik_RightHand
+    400086: thebutcher_hik_RightHandIndex1
+    400088: thebutcher_hik_RightHandIndex2
+    400090: thebutcher_hik_RightHandIndex3
+    400092: thebutcher_hik_RightHandIndex4
+    400094: thebutcher_hik_RightHandMiddle1
+    400096: thebutcher_hik_RightHandMiddle2
+    400098: thebutcher_hik_RightHandMiddle3
+    400100: thebutcher_hik_RightHandMiddle4
+    400102: thebutcher_hik_RightHandPinky1
+    400104: thebutcher_hik_RightHandPinky2
+    400106: thebutcher_hik_RightHandPinky3
+    400108: thebutcher_hik_RightHandPinky4
+    400110: thebutcher_hik_RightHandRing1
+    400112: thebutcher_hik_RightHandRing2
+    400114: thebutcher_hik_RightHandRing3
+    400116: thebutcher_hik_RightHandRing4
+    400118: thebutcher_hik_RightHandThumb1
+    400120: thebutcher_hik_RightHandThumb2
+    400122: thebutcher_hik_RightHandThumb3
+    400124: thebutcher_hik_RightHandThumb4
+    400126: thebutcher_hik_RightLeg
+    400128: thebutcher_hik_RightShoulder
+    400130: thebutcher_hik_RightUpLeg
+    400132: thebutcher_hik_Spine
+    400134: thebutcher_hik_Spine1
+    400136: transform19
+    400138: transform20
+    400140: transform21
+    400142: transform22
+    400144: transform24
+    400146: transform25
+    400148: //RootNode
+    2100000: eye_m
+    2100002: head_m
+    2100004: body_m
+    4300000: head
+    4300002: body
+    4300004: eye_L
+    4300006: eye_R
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    13700000: body
+    13700002: eye_L
+    13700004: eye_R
+    13700006: head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_m
+    second: {fileID: 2100000, guid: 4c59d34a687a8624da093edc3106a625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_m
+    second: {fileID: 2100000, guid: f16c157d09ea2cb45a1ff39893239a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_m
+    second: {fileID: 2100000, guid: f16c157d09ea2cb45a1ff39893239a14, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
