@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot my Agdanooz", "Shoot my Agdanooz.csproj", "{B04DCCC7-A333-5BA5-2CA5-F7AC29924941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot my Agdanooz.Editor", "Shoot my Agdanooz.Editor.csproj", "{4CAA9636-2E18-F3AC-B1EC-174EBA7F84E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04DCCC7-A333-5BA5-2CA5-F7AC29924941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04DCCC7-A333-5BA5-2CA5-F7AC29924941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04DCCC7-A333-5BA5-2CA5-F7AC29924941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04DCCC7-A333-5BA5-2CA5-F7AC29924941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAA9636-2E18-F3AC-B1EC-174EBA7F84E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAA9636-2E18-F3AC-B1EC-174EBA7F84E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAA9636-2E18-F3AC-B1EC-174EBA7F84E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAA9636-2E18-F3AC-B1EC-174EBA7F84E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

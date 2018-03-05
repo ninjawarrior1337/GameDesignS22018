@@ -20,7 +20,7 @@ public class ButcherHit : MonoBehaviour {
 	{
 		if(other.gameObject.CompareTag("Player"))
 		{
-			anim.SetBool ("playerInCollider", true);
+			anim.SetBool("playerInCollider", true);
 		}
 	}
 
