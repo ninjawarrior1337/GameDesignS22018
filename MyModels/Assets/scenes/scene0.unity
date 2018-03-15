@@ -49555,7 +49555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33390c89933b84a43b46c42706aacc48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anim: {fileID: 0}
+  anim: {fileID: 852649903}
 --- !u!135 &852649902
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -49568,6 +49568,11 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 2.04738
   m_Center: {x: 0, y: 0.9200001, z: 1.7373796}
+--- !u!95 &852649903 stripped
+Animator:
+  m_PrefabParentObject: {fileID: 9500000, guid: 6598f92aa17fa1e4397f81a4edb633e0,
+    type: 3}
+  m_PrefabInternal: {fileID: 497827793}
 --- !u!1 &853306112
 GameObject:
   m_ObjectHideFlags: 0
